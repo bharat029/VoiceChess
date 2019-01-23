@@ -1,0 +1,5 @@
+Our Plan for the game.
+
+version 1 - Voice Command
+version 2 - Add the normal chess gui
+version 3 - Add other voice command formats
